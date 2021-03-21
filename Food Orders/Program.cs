@@ -10,6 +10,7 @@ namespace Project1
             Console.Title = "Food Orders";
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WindowHeight = 40;
+            Console.BackgroundColor = ConsoleColor.White;
             
             //Machine Asks For Breakfast
              Console.WriteLine("Hello!, Whats your name?");
