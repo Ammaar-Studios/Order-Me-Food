@@ -1,0 +1,26 @@
+C:\Users\Admin\Desktop\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\Admin\Desktop\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\Admin\Desktop\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\Admin\Desktop\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Admin\Desktop\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Admin\Desktop\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Admin\Desktop\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Admin\Desktop\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Company Registration\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\Admin\Desktop\Company Registration\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\Admin\Desktop\Company Registration\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\Admin\Desktop\Company Registration\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Company Registration\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Admin\Desktop\Company Registration\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Admin\Desktop\Company Registration\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Company Registration\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Company Registration\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Company Registration\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Company Registration\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Admin\Desktop\Company Registration\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Admin\Desktop\Company Registration\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
