@@ -1,0 +1,8 @@
+#How to use this thing mabob
+Download the Respository Read The License File then delete the Read Me And License Files
+Then Open The Folder Click The Top Where It would say your path click it
+Then type cmd
+Then type dotnet run
+Then Its Running and good to go
+Any problems Contact me at ammaar@ammaarstudios.tk 
+or just post an issue
